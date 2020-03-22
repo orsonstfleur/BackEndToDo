@@ -1,0 +1,16 @@
+body{
+  background: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Amatic SC', cursive;
+  list-style-type: none;
+  background-color: #47c4ff;
+  color: #f8f8f8
+}
+
+input, button{
+  border-radius: 10px;
+  padding: 10px;
+  font-family: 'Amatic SC', cursive;
+  font-size: 20px;
+}
